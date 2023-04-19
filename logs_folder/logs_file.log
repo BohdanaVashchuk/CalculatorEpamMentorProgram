@@ -1,0 +1,52 @@
+[INFO ] 2023-01-22 22:16:31.288 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:16:36.596 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:16:40.283 [main] Main - Let's enter your second integer number:
+[INFO ] 2023-01-22 22:16:42.134 [main] Main - Your result is 35
+[INFO ] 2023-01-22 22:18:04.333 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:18:09.870 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:18:13.864 [main] Main - Let's enter your second integer number:
+[INFO ] 2023-01-22 22:18:19.276 [main] Main - Your result is 8
+[INFO ] 2023-01-22 22:25:41.852 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:25:48.125 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:25:57.984 [main] Main - Let's enter your second integer number:
+[INFO ] 2023-01-22 22:26:15.657 [main] Main - Your result is 42
+[INFO ] 2023-01-22 22:30:33.856 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:30:42.388 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:31:41.542 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:31:44.394 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:33:35.507 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:33:38.306 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:38:39.595 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:38:45.144 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:39:26.556 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:41:01.425 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:42:15.055 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:42:50.799 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:43:29.384 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:43:48.020 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-22 22:43:53.572 [main] Main - Sorry entered value can not be calculated, find another calc21.0
+[INFO ] 2023-01-22 22:44:31.428 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-22 22:44:38.868 [main] Main - Sorry entered value can not be calculated, find another calc
+[INFO ] 2023-01-22 22:45:07.152 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:45:10.390 [main] Main - Sorry entered value can not be calculated, find another calc
+[INFO ] 2023-01-22 22:45:45.042 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:46:40.192 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-22 22:46:45.774 [main] Main - Sorry entered value can not be calculated, find another calc
+[INFO ] 2023-01-22 22:47:32.647 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-22 22:47:46.020 [main] Main - Sorry entered value can not be calculated, find another calc21.0
+[INFO ] 2023-01-22 22:48:17.668 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:48:25.297 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-22 22:48:27.731 [main] Main - Let's enter your second integer number:
+[INFO ] 2023-01-22 22:48:33.999 [main] Main - Your result is -17
+[INFO ] 2023-01-22 22:50:02.640 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-22 22:51:20.223 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-23 14:50:41.403 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-23 14:50:49.371 [main] Main - Sorry entered value can not be calculated, find another calc21.0
+[INFO ] 2023-01-23 14:51:01.415 [main] Main - Let's enter your first number:
+[INFO ] 2023-01-23 14:51:06.757 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-01-23 14:52:07.522 [main] Main - Let's enter your first number:
+[ERROR] 2023-01-23 14:52:14.742 [main] Main - Sorry entered value can not be calculated, find another calc-21.0
+[INFO ] 2023-04-19 10:16:33.150 [main] Main - Let's enter your first number:
+[INFO ] 2023-04-19 10:16:40.409 [main] Main - Select an operator for further calculation: +, -, *, or /" We are working just with mentioned list of operators
+[INFO ] 2023-04-19 10:16:46.978 [main] Main - Let's enter your second integer number:
+[INFO ] 2023-04-19 10:19:03.661 [main] Main - Your result is 14

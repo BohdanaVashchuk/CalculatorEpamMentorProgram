@@ -1,0 +1,28 @@
+Configuration:
+  Properties:
+    Property:
+      name: logger
+      value: logs_folder
+
+  Appenders:
+    Console:
+      - name: myConsole
+        PatternLayout:
+          pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+
+
+    File:
+      - name: myFile
+        fileName: ${logger}/logs_file1.log
+        PatternLayout:
+          pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+
+
+  Loggers:
+    Root:
+      level: all
+      AppenderRef:
+        - ref: myFile
+          level: all
+        - ref: myConsole
+          level: all
